@@ -6,4 +6,6 @@ public class SolidPrinciples {
     I => Interface segregation principle
     D => Dependency Inversion Principle
      */
+
+    
 }
